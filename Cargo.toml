@@ -1,0 +1,10 @@
+[package]
+name = "ddump-gen"
+version = "0.1.0"
+authors = ["Alexander Stavonin <alex@sysdev.me>"]
+
+[dependencies]
+clang = "0.16.0"
+clap = "2.24.2"
+log = "*"
+env_logger = "*"
